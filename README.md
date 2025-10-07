@@ -22,7 +22,7 @@
 `Python` · `C++` · `C`
 
 **Core Domains:**  
-`AI & Machine Learning` · `Automation & Workflow Systems` · `Algorithmic & Quantitative Trading` · `Data Analytics & Visualization` · `System Design & Scalability`
+`AI & Machine Learning` · `Automation & Workflow Systems` · `System Design & Scalability` · `Algorithmic & Quantitative Trading` 
 
 **Tools & Libraries:**  
 `TensorFlow` · `PyTorch` · `scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `n8n` · `CCXT` · `BeautifulSoup` · `Docker`
