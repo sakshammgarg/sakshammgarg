@@ -9,8 +9,8 @@
 
 ## 🧠 About Me
 - 🧩 Logical thinker focused on **data-driven decision systems** and **scalable automation**  
-- 📊 Developing **crypto trading algorithms** that replicate real market behavior  
-- 🤖 Combining **machine learning and APIs** for smart, real-time trading insights  
+- 📊 Developing **trading algorithms** that replicate real market behavior  
+- 🤖 Combining **machine learning and APIs** for smart, real-time insights  
 - ⚙️ Prioritizing **practicality**, **ROI**, and **efficiency**  
 - 🔧 Obsessed with building systems that generate **consistent, automated results**
 
@@ -25,7 +25,7 @@
 `AI & Machine Learning` · `Automation & Workflow Systems` · `System Design & Scalability` · `Algorithmic & Quantitative Trading`  
 
 **Tools & Libraries:**  
-`TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `n8n` · `CCXT` · `BeautifulSoup` · `Docker`  
+`Linux` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `n8n` · `CCXT` · `BeautifulSoup` · `Docker`
 
 ---
 
