@@ -2,14 +2,14 @@
 
 🎓 **B.Tech CSE (Cyber Security)** student from Bangalore  
 💡 Focused on **AI**, **automation**, and building **intelligent systems** that create real-world impact  
-💹 Building AI-driven automation systems and applying them in finance and trading to create intelligent, data-backed solutions  
-🚀 On a mission to achieve **financial freedom by 30** through smart, self-sustaining systems
+💹 Building AI-driven automation systems and applying them to create intelligent, data-backed solutions  
+🚀 On a path to build **self-sustaining, high-impact systems** that combine technology and finance
 
 ---
 
 ## 🧠 About Me
 - 🧩 Logical thinker focused on **data-driven decision systems** and **scalable automation**  
-- 📊 Developing **trading algorithms** that replicate real market behavior  
+- 📊 Developing **algorithmic systems** that replicate **real-world decision dynamics**
 - 🤖 Combining **machine learning and APIs** for smart, real-time insights  
 - ⚙️ Prioritizing **practicality**, **ROI**, and **efficiency**  
 - 🔧 Obsessed with building systems that generate **consistent, automated results**
@@ -36,24 +36,25 @@
 - 🔗 Integrates APIs for **data fetching, logging, and monitoring**  
 - 🛠️ Enables **hands-free trading and analytics pipelines**
 
-### 🪙 **Crypto Coin Picker**
-- 🎯 Goal: maximize **post-tax profitability** on **CoinDCX spot pairs**  
-- 📈 Detects short-term gainers (5–15 min) using **volume, RSI, and EMA** filters  
-- 💹 Simulates trades with **real-time TP/SL tracking** and **fee-adjusted returns**  
-- 🧰 Built using **Python + Binance API + Telegram integration**
-
 ### 🛰️ **CubeSat Project**
-- 🔧 Working on the **KiboCUBE CubeSat program**, contributing to **design, system integration, and planned mission operations** for a 1U CubeSat deployed from the ISS  
-- 🛠️ Developing skills in **engineering design, hardware-software integration, and iterative testing**  
+- 🔧 Part of the **KiboCUBE CubeSat program**, contributing to **design and integration** for a 1U satellite launched from the ISS 
+- 🛠️ Working on **system integration, hardware-software interfacing**, and **mission reliability**
 - 🤝 Gaining practical experience in **team collaboration, problem-solving, and real-world system deployment**  
 
+### 🪙 **Crypto Coin Picker**
+- 🎯 Goal: maximize **post-tax profitability** on **CoinDCX spot pairs**  
+- 📈 Uses **volume, RSI, and EMA** filters to identify **short-term market movements**
+- 💹 Focused on testing **AI-driven signal generation** for smarter trading systems
+- 🧰 Built using **Python + Binance API + Telegram integration**
+  
 ---
 
 ## 📊 Current Focus
-- 🧠 Building **automation pipelines** powered by machine learning for real-world applications  
+- 🧠 Developing **ML-powered automation pipelines** for adaptive systems
 - 📉 Experimenting with **AI-assisted trading strategies** and other practical AI systems  
-- 🔄 Creating **self-optimizing systems** that improve over time with feedback  
-
+- 🔄 Building **self-optimizing systems** that improve over time with feedback
+- 🛰️ Contributing to the KiboCUBE CubeSat program (design & integration)
+  
 ---
 
 ## 🧭 Vision
