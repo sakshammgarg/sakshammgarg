@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Saksham
+# 👋🏻 Hey, I'm Saksham
 
 🎓 **B.Tech CSE (Cyber Security)** student from Bangalore  
 💡 Focused on **AI**, **automation**, and building **intelligent systems** that create real-world impact  
