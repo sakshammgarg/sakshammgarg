@@ -9,8 +9,8 @@
 
 ## 🧠 About Me
 - 🧩 Logical thinker focused on **data-driven decision systems** and **scalable automation**  
-- 📊 Developing **algorithmic systems** that replicate **real-world decision dynamics**
 - 🤖 Combining **machine learning and APIs** for smart, real-time insights  
+- 📊 Developing **algorithmic systems** that replicate **real-world decision dynamics**
 - ⚙️ Prioritizing **practicality**, **ROI**, and **efficiency**  
 - 🔧 Obsessed with building systems that generate **consistent, automated results**
 
@@ -25,7 +25,7 @@
 `AI & Machine Learning` · `Automation & Workflow Systems` · `System Design & Scalability` · `Algorithmic & Quantitative Trading`  
 
 **Tools & Libraries:**  
-`Linux` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `n8n` · `CCXT` · `BeautifulSoup` · `Docker`
+`Linux` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `n8n` · `CCXT` · `Docker`
 
 ---
 
@@ -37,7 +37,7 @@
 - 🛠️ Enables **hands-free trading and analytics pipelines**
 
 ### 🛰️ **CubeSat Project**
-- 🔧 Part of the **KiboCUBE CubeSat program**, contributing to **design and integration** for a 1U satellite launched from the ISS 
+- 🔧 Part of the **ICARUS CubeSat program**, contributing to **design and integration** for a 1U satellite launched from the ISS 
 - 🛠️ Working on **system integration, hardware-software interfacing**, and **mission reliability**
 - 🤝 Gaining practical experience in **team collaboration, problem-solving, and real-world system deployment**  
 
@@ -50,6 +50,7 @@
 ---
 
 ## 📊 Current Focus
+- 🤖 Building **AI-based projects** spanning perception, prediction, and decision-making
 - 🧠 Developing **ML-powered automation pipelines** for adaptive systems
 - 📉 Experimenting with **AI-assisted trading strategies** and other practical AI systems  
 - 🔄 Building **self-optimizing systems** that improve over time with feedback
