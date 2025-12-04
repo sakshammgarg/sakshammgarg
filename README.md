@@ -1,6 +1,6 @@
 # 👋🏻 Hey, i'm Saksham
 
-🎓 **B.Tech CSE (Cyber Security)** student from Bangalore  
+🎓 **B.Tech CSE** student from Bangalore  
 💡 Focused on **AI**, **automation**, and building **intelligent systems** that create real-world impact  
 💹 Building AI-driven automation systems and applying them to create intelligent, data-backed solutions  
 🚀 On a path to build **self-sustaining, high-impact systems** that combine technology and finance
