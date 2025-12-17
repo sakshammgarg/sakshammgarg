@@ -10,11 +10,11 @@
 **Languages:**  
 Python · C++ · C · Bash/Shell · SQL  
 
-**ML / Data:**  
+**ML:**  
 scikit-learn · TensorFlow · Keras · PyTorch · Pandas · NumPy · Matplotlib · OpenCV  
 
 **Systems & Tools:**  
-Linux · Git · Docker · n8n · CCXT · NASA F´ (F-Prime)  
+Linux · Git · Docker · n8n · CCXT · NASA F´(F-Prime)  
 
 **Documentation:**  
 LaTeX · Markdown
