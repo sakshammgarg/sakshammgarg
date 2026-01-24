@@ -6,7 +6,7 @@ Exploring **Machine Learning and AI** through hands-on projects
 
 ---
 
-##Tech Stack
+## Tech Stack
 **Languages:**  
 Python · C++ · C · Bash/Shell · SQL  
 
@@ -21,7 +21,7 @@ LaTeX · Markdown
 
 ---
 
-##Projects
+## Projects
 - **Visual Question Answering (CLIP & BLIP)** — Vision–language model implementation and comparison  
 - **Pothole Detection Pipeline** — End-to-end computer vision pipeline using image data  
 - **Waste Detection System** — Image-based waste detection and classification  
