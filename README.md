@@ -22,17 +22,20 @@ LaTeX · Markdown
 ---
 
 ## Projects
-- **Visual Question Answering (CLIP & BLIP)** — Vision–language model implementation and comparison  
+- **Noise-Aware Quantum ML Anomaly Detection** - Quantum Machine Learning based anomaly detection under realistic noise conditions
+- **Brain Tumor Classification** - Medical image classification using deep learning models
+- **Visual Question Answering (CLIP & BLIP)** — Vision language model implementation and comparison  
 - **Pothole Detection Pipeline** — End-to-end computer vision pipeline using image data  
-- **Waste Detection System** — Image-based waste detection and classification  
-- **Credit Card Fraud Detection** — ML-based fraud classification system  
+- **Waste Detection System** — Image based waste detection and classification  
+- **Credit Card Fraud Detection** — ML based fraud classification system  
 - **CubeSat (ICARUS / KiboCUBE)** — System integration and software–hardware interfacing for a 1U satellite
-- **Crypto Coin Picker** — Experimental market-data analysis using technical indicators  
-- **Automation Workflows** — API-based automation pipelines using n8n + Python  
+- **Crypto Coin Picker** — Experimental market data analysis using technical indicators  
+- **Automation Workflows** — API based automation pipelines using n8n + Python
 
 ---
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/sakshammgarg)  
+- [LinkedIn](https://www.linkedin.com/in/sakshammgarg)
+- [Instagram](https://www.instagram.com/saksham_garg16)
 - [Email](mailto:sakshamgarg.7167@gmail.com)  
 - [GitHub](https://github.com/sakshammgarg)
