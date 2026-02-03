@@ -22,7 +22,7 @@ LaTeX · Markdown
 ---
 
 ## Projects
-- **Noise-Aware Quantum ML Anomaly Detection** - Quantum Machine Learning based anomaly detection under realistic noise conditions
+- **Noise-Aware Quantum Machine Learning (QML) Anomaly Detection** - Quantum Machine Learning based anomaly detection under realistic noise conditions
 - **Brain Tumor Classification** - Medical image classification using deep learning models
 - **Visual Question Answering (CLIP & BLIP)** — Vision language model implementation and comparison  
 - **Pothole Detection Pipeline** — End-to-end computer vision pipeline using image data  
