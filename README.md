@@ -1,6 +1,6 @@
 # 👋🏻 Hey, I'm Saksham
 
-**B.Tech CSE** student based in Bangalore  
+**B.Tech CSE** student in Pune | Bangalore
 Actively learning across **technology and other diverse domains**  
 Exploring **Machine Learning and AI** through hands-on projects
 
