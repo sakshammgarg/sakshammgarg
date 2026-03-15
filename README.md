@@ -36,6 +36,4 @@ LaTeX · Markdown
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/sakshammgarg)
-- [Instagram](https://www.instagram.com/saksham_garg16)
 - [Email](mailto:sakshamgarg.7167@gmail.com)  
-- [GitHub](https://github.com/sakshammgarg)
