@@ -9,7 +9,7 @@ Exploring **Machine Learning and AI** through hands-on projects
 ## Tech Stack
 
 **Languages:**  
-Python · C · C++ · SQL · Bash/Shell
+Python · C · C++ · Java · SQL · Bash/Shell
 
 **ML/AI:**  
 PyTorch · TensorFlow · Keras · scikit-learn · timm · torchvision · PennyLane · Albumentations · Transformers (CLIP · BLIP) · XGBoost · Captum · SHAP · LIME · imbalanced-learn · NumPy · Pandas · SciPy · Matplotlib · Seaborn · OpenCV
