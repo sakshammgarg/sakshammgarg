@@ -1,4 +1,4 @@
-# 👋🏻 Hey, I'm Saksham
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/68064fa7-915c-4582-baff-5b461afcfb7a" /><img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e716cd52-0f9d-4714-a3fc-2e36f7355232" /># 👋🏻 Hey, I'm Saksham
 
 **B.Tech CSE** student in Bangalore          
 Actively learning across **technology and other diverse domains**  
@@ -41,7 +41,7 @@ LaTeX · Markdown
 
 - **NQComp 2026** — Waste Classification *(Presented)*
 - **IEEE BHTC 2026** — Pothole Detection *(Accepted)*
-- **ISCADS 2026** — Pothole Detection *(Poster)*
+- **ISCADS 2026** — Pothole Detection *(Presented)*
 - **RAAMC-2026** — Visual Question Answering: CLIP & BLIP *(Presented)*
 - **IEEE CONECCT 2026** — Noise-Aware Quantum Machine Learning *(Submitted)*
 
