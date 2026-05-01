@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/68064fa7-915c-4582-baff-5b461afcfb7a" /><img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e716cd52-0f9d-4714-a3fc-2e36f7355232" /># 👋🏻 Hey, I'm Saksham
+# 👋🏻 Hey, I'm Saksham
 
 **B.Tech CSE** student in Bangalore          
 Actively learning across **technology and other diverse domains**  
