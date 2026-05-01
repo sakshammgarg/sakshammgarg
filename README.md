@@ -43,7 +43,7 @@ LaTeX · Markdown
 - **IEEE BHTC 2026** — Pothole Detection *(Accepted)*
 - **ISCADS 2026** — Pothole Detection *(Presented)*
 - **RAAMC-2026** — Visual Question Answering: CLIP & BLIP *(Presented)*
-- **IEEE CONECCT 2026** — Noise-Aware Quantum Machine Learning *(Submitted)*
+- **IEEE CONECCT 2026** — Noise-Aware Quantum Machine Learning *(Accepted)*
 
 ---
 
