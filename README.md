@@ -39,11 +39,11 @@ LaTeX · Markdown
 
 ## Publications & Conferences
 
-- **NQComp 2026** — Waste Classification *(Presented)*
+- **NQComp 2026** — Waste Classification *(Published)*
 - **IEEE BHTC 2026** — Pothole Detection *(Accepted)*
 - **ISCADS 2026** — Pothole Detection *(Presented)*
 - **RAAMC-2026** — Visual Question Answering: CLIP & BLIP *(Presented)*
-- **IEEE CONECCT 2026** — Noise-Aware Quantum Machine Learning *(Accepted)*
+- **IEEE CONECCT 2026** — Noise-Aware Quantum Machine Learning *(Published)*
 
 ---
 
