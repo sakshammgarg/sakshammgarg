@@ -40,11 +40,11 @@ LaTeX · Markdown
 ## Publications
 
 - **IEEE CONECCT 2026** — Noise-Aware Quantum Machine Learning *[(Published)](https://ieeexplore.ieee.org/document/11700678)*
-                        - Federated Learning for Fetal Head Circumference Monitoring *[(Published)]([https://ieeexplore.ieee.org/document/11700663)*
-                        - FROST-IDS *[(Published)](https://ieeexplore.ieee.org/document/11700630)*
+- **IEEE CONECCT 2026** - Federated Learning for Fetal Head Circumference Monitoring *[(Published)]([https://ieeexplore.ieee.org/document/11700663)*
+- **IEEE CONECCT 2026** - FROST-IDS *[(Published)](https://ieeexplore.ieee.org/document/11700630)*
 - **NQComp 2026** — Waste Classification *[(Published)](https://ieeexplore.ieee.org/document/11497790)*
 - **IEEE BHTC 2026** — Federated and Fairness-Aware Learning *[(Published)](https://ieeexplore.ieee.org/document/11502232)*
-                     — Pothole Detection *(Accepted)*
+- **IEEE BHTC 2026** — Pothole Detection *(Accepted)*
 - **ISCADS 2026** — Pothole Detection *(Presented)*
 - **RAAMC-2026** — Visual Question Answering: CLIP & BLIP *(Presented)*
 
