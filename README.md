@@ -49,4 +49,3 @@ LaTeX · Markdown
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/sakshammgarg)
-- [Email](mailto:sakshamgarg.7167@gmail.com)  
